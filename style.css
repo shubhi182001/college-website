@@ -46,6 +46,7 @@
 .navbar-nav{
     align-items: left;
     margin-right: 5px;
+    display: contents !important;
 }
 
 .menu-bar .navbar-toggler{
@@ -87,9 +88,10 @@
     gap: 2rem !important;
 } */
 #btn{
-    border-radius: 1.5rem;
+    border-radius: 8px;
     text-decoration: none;
-    font-size: larger;
+    font-size: large;
+    padding: 8px 16px;
     font-weight: 400;
     background-color: black !important;
     color: #ffffff;
