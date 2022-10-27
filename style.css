@@ -21,6 +21,7 @@
 .navbar-nav{
     align-items: left;
     margin-right: 5px;
+    display: contents !important;
 }
 
 .menu-bar .navbar-toggler{
